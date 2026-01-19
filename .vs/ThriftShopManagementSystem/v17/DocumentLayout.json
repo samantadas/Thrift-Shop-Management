@@ -1,0 +1,677 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_SAMAN_DOCUMENTS_THRIFT.MDF/True/SqlTable/dbo.users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_SAMAN_DOCUMENTS_THRIFT.MDF/True/SqlTable/dbo.auctions.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\adminaddproductsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\adminaddproductsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\adminaddusersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\adminaddusersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saman\\AppData\\Local\\Temp\\opdb13j4..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|g:\\obsidian\\aiub_cse_7th_samester\\object_oriented_programming_2_jj\\thriftshopmanagementsystem\\thriftshopmanagementsystem\\userauctionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\userauctionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\userauctionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\userauctionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\userorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\userorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\userorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\userorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\usermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\usermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\usermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\usermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\SQLQuery443.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery443.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\SQLQuery251.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery251.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ashfaque\\AppData\\Local\\Temp\\0hx2q00a..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\customersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\customersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\usercustomersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\usercustomersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\usercustomersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\usercustomersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ashfaque\\AppData\\Local\\Temp\\cz1fbceq..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\userorderformproddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\userorderformproddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\userordersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\userordersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\SQLQuery13.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery13.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\SQLQuery12.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery12.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\adminmainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\adminmainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\adminaddusers.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\adminaddusers.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\thriftshopmanagementsystem\\adminaddusers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E074FFF-2155-4407-9042-9B66CEE54D9D}|ThriftShopManagementSystem\\ThriftShopManagementSystem.csproj|solutionrelative:thriftshopmanagementsystem\\adminaddusers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saman\\AppData\\Local\\Temp\\opdb13j4..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saman\\AppData\\Local\\Temp\\opdb13j4..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 519,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\Form1.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\Form1.cs",
+              "RelativeToolTip": "ThriftShopManagementSystem\\Form1.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAjwGwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T16:47:52.657Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminAddUsers.cs",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminAddUsers.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\AdminAddUsers.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminAddUsers.cs",
+              "RelativeToolTip": "ThriftShopManagementSystem\\AdminAddUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T16:38:49.674Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_SAMAN_DOCUMENTS_THRIFT.MDF/True/SqlTable/dbo.users.sql",
+              "ToolTip": "dbo.users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-19T21:32:34.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.auctions [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_SAMAN_DOCUMENTS_THRIFT.MDF/True/SqlTable/dbo.auctions.sql",
+              "ToolTip": "dbo.auctions [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-19T18:56:05.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Session.cs",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\Session.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\Session.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\Session.cs",
+              "RelativeToolTip": "ThriftShopManagementSystem\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T11:08:11.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminMainForm.cs [Design]",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminMainForm.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\AdminMainForm.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminMainForm.cs [Design]",
+              "RelativeToolTip": "ThriftShopManagementSystem\\AdminMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T11:25:56.086Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminAddUsersData.cs",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminAddUsersData.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\AdminAddUsersData.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminAddUsersData.cs",
+              "RelativeToolTip": "ThriftShopManagementSystem\\AdminAddUsersData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T17:07:16.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminAddProductsData.cs",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminAddProductsData.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\AdminAddProductsData.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminAddProductsData.cs",
+              "RelativeToolTip": "ThriftShopManagementSystem\\AdminAddProductsData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAC6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T21:13:31.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminAddProducts.cs",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminAddProducts.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\AdminAddProducts.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminAddProducts.cs",
+              "RelativeToolTip": "ThriftShopManagementSystem\\AdminAddProducts.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAkwF8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T19:32:22.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserAuctionSystem.cs [Design]",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\UserAuctionSystem.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\UserAuctionSystem.cs",
+              "ToolTip": "C:\\Users\\Ashfaque\\source\\repos\\ThriftShopManagementlatestbuild\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\UserAuctionSystem.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T08:53:38.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserAuctionSystem.cs",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\UserAuctionSystem.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\UserAuctionSystem.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\UserAuctionSystem.cs",
+              "RelativeToolTip": "ThriftShopManagementSystem\\UserAuctionSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T12:56:19.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\saman\\AppData\\Local\\Temp\\opdb13j4..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-19T16:03:48.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserOrderForm.cs [Design]",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\UserOrderForm.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\UserOrderForm.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\UserOrderForm.cs [Design]",
+              "RelativeToolTip": "ThriftShopManagementSystem\\UserOrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:57:14.984Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\Form1.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "ThriftShopManagementSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T16:41:36.573Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminMainForm.cs",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminMainForm.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\AdminMainForm.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminMainForm.cs",
+              "RelativeToolTip": "ThriftShopManagementSystem\\AdminMainForm.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwGkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T11:43:04.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserOrderForm.cs",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\UserOrderForm.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\UserOrderForm.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\UserOrderForm.cs",
+              "RelativeToolTip": "ThriftShopManagementSystem\\UserOrderForm.cs",
+              "ViewState": "AgIAAA8CAAAAAAAAAAD4v4ABAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:59:53.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserMainForm.cs [Design]",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\UserMainForm.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\UserMainForm.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\UserMainForm.cs [Design]",
+              "RelativeToolTip": "ThriftShopManagementSystem\\UserMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T11:39:07.201Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserMainForm.cs",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\UserMainForm.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\UserMainForm.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\UserMainForm.cs",
+              "RelativeToolTip": "ThriftShopManagementSystem\\UserMainForm.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAjwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T11:39:42.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminAddUsers.cs [Design]",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminAddUsers.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\AdminAddUsers.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminAddUsers.cs [Design]",
+              "RelativeToolTip": "ThriftShopManagementSystem\\AdminAddUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T15:47:35.879Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SQLQuery443.sql",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\SQLQuery443.sql",
+              "RelativeDocumentMoniker": "SQLQuery443.sql",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\SQLQuery443.sql",
+              "RelativeToolTip": "SQLQuery443.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-16T16:35:18.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SQLQuery2.sql",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "SQLQuery2.sql",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\SQLQuery2.sql",
+              "RelativeToolTip": "SQLQuery2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-18T13:50:06.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-15T09:13:14.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SQLQuery251.sql",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\SQLQuery251.sql",
+              "RelativeDocumentMoniker": "SQLQuery251.sql",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\SQLQuery251.sql",
+              "RelativeToolTip": "SQLQuery251.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-16T09:21:03.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminDashboardForm.cs",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminDashboardForm.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\AdminDashboardForm.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminDashboardForm.cs",
+              "RelativeToolTip": "ThriftShopManagementSystem\\AdminDashboardForm.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAjwCYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T15:39:14.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "cz1fbceq..sql",
+              "DocumentMoniker": "C:\\Users\\Ashfaque\\AppData\\Local\\Temp\\cz1fbceq..sql",
+              "ToolTip": "C:\\Users\\Ashfaque\\AppData\\Local\\Temp\\cz1fbceq..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-16T18:50:01.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserOrderFormProdData.cs",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\UserOrderFormProdData.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\UserOrderFormProdData.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\UserOrderFormProdData.cs",
+              "RelativeToolTip": "ThriftShopManagementSystem\\UserOrderFormProdData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAC6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T18:30:01.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "0hx2q00a..sql",
+              "DocumentMoniker": "C:\\Users\\Ashfaque\\AppData\\Local\\Temp\\0hx2q00a..sql",
+              "ToolTip": "C:\\Users\\Ashfaque\\AppData\\Local\\Temp\\0hx2q00a..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-18T13:04:54.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserOrdersData.cs",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\UserOrdersData.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\UserOrdersData.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\UserOrdersData.cs",
+              "RelativeToolTip": "ThriftShopManagementSystem\\UserOrdersData.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAEwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T09:38:06.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SQLQuery13.sql",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\SQLQuery13.sql",
+              "RelativeDocumentMoniker": "SQLQuery13.sql",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\SQLQuery13.sql",
+              "RelativeToolTip": "SQLQuery13.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-15T18:45:24.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminDashboardForm.cs [Design]",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminDashboardForm.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\AdminDashboardForm.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminDashboardForm.cs [Design]",
+              "RelativeToolTip": "ThriftShopManagementSystem\\AdminDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T13:03:52.337Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomersData.cs",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\CustomersData.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\CustomersData.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\CustomersData.cs",
+              "RelativeToolTip": "ThriftShopManagementSystem\\CustomersData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T11:05:43.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserCustomersForm.cs [Design]",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\UserCustomersForm.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\UserCustomersForm.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\UserCustomersForm.cs [Design]",
+              "RelativeToolTip": "ThriftShopManagementSystem\\UserCustomersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:59:50.748Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserCustomersForm.cs",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\UserCustomersForm.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\UserCustomersForm.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\UserCustomersForm.cs",
+              "RelativeToolTip": "ThriftShopManagementSystem\\UserCustomersForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T11:04:37.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminAddProducts.cs [Design]",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminAddProducts.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\AdminAddProducts.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminAddProducts.cs [Design]",
+              "RelativeToolTip": "ThriftShopManagementSystem\\AdminAddProducts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T16:21:40.093Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\RegisterForm.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "ThriftShopManagementSystem\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:47:17.038Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SQLQuery12.sql",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\SQLQuery12.sql",
+              "RelativeDocumentMoniker": "SQLQuery12.sql",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\SQLQuery12.sql",
+              "RelativeToolTip": "SQLQuery12.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-15T15:34:12.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\RegisterForm.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\RegisterForm.cs",
+              "RelativeToolTip": "ThriftShopManagementSystem\\RegisterForm.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAWwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T21:03:39.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AdminMainForm.Designer.cs",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminMainForm.Designer.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\AdminMainForm.Designer.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminMainForm.Designer.cs",
+              "RelativeToolTip": "ThriftShopManagementSystem\\AdminMainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T13:37:00.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AdminAddUsers.resx",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminAddUsers.resx",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\AdminAddUsers.resx",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminAddUsers.resx",
+              "RelativeToolTip": "ThriftShopManagementSystem\\AdminAddUsers.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-13T09:58:58.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AdminAddUsers.Designer.cs",
+              "DocumentMoniker": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminAddUsers.Designer.cs",
+              "RelativeDocumentMoniker": "ThriftShopManagementSystem\\AdminAddUsers.Designer.cs",
+              "ToolTip": "G:\\Obsidian\\aiub_cse_7th_samester\\OBJECT_ORIENTED_PROGRAMMING_2_JJ\\ThriftShopManagementSystem\\ThriftShopManagementSystem\\AdminAddUsers.Designer.cs",
+              "RelativeToolTip": "ThriftShopManagementSystem\\AdminAddUsers.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T09:58:58.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 135,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
